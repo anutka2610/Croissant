@@ -1,0 +1,25 @@
+body {
+  background-color: blanchedalmond;
+  max-width: 1200px;
+  text-align: center;
+  margin: 0 auto;
+}
+h1 {
+  font-size: 40px;
+}
+a {
+  color: sienna;
+}
+a:hover {
+  font-weight: 800;
+}
+img {
+  width: 100%;
+  height: auto;
+  max-width: 700px;
+}
+.links {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-evenly;
+}
